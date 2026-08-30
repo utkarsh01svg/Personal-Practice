@@ -1,2 +1,2 @@
 # Personal-Practice
-Practice REPO personally local private one
+Practice REPO . Practice programs i make for fun and learning not professionally.
